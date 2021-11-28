@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Nail Asadullin. 
+### 👋. Welcome to my page! if you interested, there some facts about me:
 * 🤖 Android Developer
 * 📻 Former engineer designer of radio devices and optics systems
 * 🎸 [Metal band guitar player](https://sleepydoor.bandcamp.com/)
