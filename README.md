@@ -4,3 +4,7 @@
 * 🎸 [Metal band guitar player](https://sleepydoor.bandcamp.com/)
 * 🌉 From Saint-Petersburg, Russia
 * 🐱 Have two cats: Natsu and Shiro.
+---------------
+* [LinkedIn](https://www.linkedin.com/in/nail-asadullin/)
+* [Codewars](https://www.codewars.com/users/NightGoat)
+* [Leetcode](https://leetcode.com/NightGoat/)
