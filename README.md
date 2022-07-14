@@ -2,9 +2,9 @@
 * 🤖 Android Developer
 * 📻 Former engineer designer of radio devices and optics systems
 * 🎸 [Metal band guitar player](https://sleepydoor.bandcamp.com/)
-* 🌉 From Saint-Petersburg, Russia
 * 🐱 Have two cats: Natsu and Shiro.
 ---------------
+### Links
 * [Articles i wrote](https://github.com/NightGoat/Articles)
 * [LinkedIn](https://www.linkedin.com/in/nail-asadullin/)
 * [Codewars](https://www.codewars.com/users/NightGoat)
