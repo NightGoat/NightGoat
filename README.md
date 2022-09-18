@@ -5,7 +5,7 @@
 * 🐱 Have two cats: Natsu and Shiro.
 ---------------
 ### Links
-* [Articles i wrote](https://github.com/NightGoat/Articles)
+* [Medium](https://medium.com/@Night_Goat)
 * [LinkedIn](https://www.linkedin.com/in/nail-asadullin/)
 * [Codewars](https://www.codewars.com/users/NightGoat)
 * [Leetcode](https://leetcode.com/NightGoat/)
